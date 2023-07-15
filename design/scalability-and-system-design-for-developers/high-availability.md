@@ -36,7 +36,7 @@ If service run several instances, a few go offline, the system can work without 
 
 An initial set of nodes are active, and a set of redundant nodes are passive, on standby. Active nodes get replaced by passive nodes, in case of failures.
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<./../.gitbook/assets/image (27).png>)
 
 
 
@@ -59,7 +59,7 @@ Opposite the monolith. Redundant nodes help to have no single points of failure.
 * having a number of similar replication
 * nodes running the workload together
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<./../.gitbook/assets/image (17).png>)
 
 
 
@@ -67,7 +67,7 @@ Opposite the monolith. Redundant nodes help to have no single points of failure.
 
 A **single state** across all the nodes in a cluster is achieved with the help of a shared distributed memory and a distributed coordination service like the _Zookeeper_.
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<./../.gitbook/assets/image (31).png>)
 
 
 

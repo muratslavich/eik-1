@@ -11,7 +11,7 @@
 
 To ensure LB route requests to up and running servers, LB regularly performs health checks.
 
-![](<../../.gitbook/assets/image (29).png>)
+![](<./../.gitbook/assets/image (29).png>)
 
 * in-service machines
 * out of service

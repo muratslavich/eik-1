@@ -13,7 +13,7 @@ Components:
 
 ### Single tier application
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<./../.gitbook/assets/image (45).png>)
 
 * no network latency
 * performance depends on client hardware
@@ -25,7 +25,7 @@ Components:
 
 ### Two-tier application
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<./../.gitbook/assets/image (1).png>)
 
 * **client-server**
 * client contains the UI and the business logic
@@ -46,7 +46,7 @@ Application makes calls to the server only for update state.
 
 ### Three-tier application
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<./../.gitbook/assets/image (19).png>)
 
 {% hint style="info" %}
 UI, application logic and database lie on different machines
@@ -77,7 +77,7 @@ Distributed applications
 
 <summary>Tiers isn't the same with layers</summary>
 
-<img src="../../.gitbook/assets/image (54).png" alt="" data-size="original">
+<img src="./../.gitbook/assets/image (54).png" alt="" data-size="original">
 
 The layers is the code organizations when tier is physical component separation.
 

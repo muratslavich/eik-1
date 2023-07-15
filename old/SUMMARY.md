@@ -58,26 +58,6 @@
   * [React component](javascript/react/react-component.md)
   * [JSX подробности](javascript/react/jsx-podrobnosti.md)
 
-## Design
-
-* [UML](design/uml.md)
-* [Transactions](design/transactions/README.md)
-  * [Distributed transactions](design/transactions/distributed-transactions.md)
-* [Authentication & Authorization](design/authentication-and-authorization.md)
-* [Microservice architecture](design/microservice-architecture.md)
-* [Scalability & System Design for Developers](design/scalability-and-system-design-for-developers/README.md)
-  * [N-Tiers architecture](design/scalability-and-system-design-for-developers/n-tiers-architecture.md)
-  * [Proxies](design/scalability-and-system-design-for-developers/proxies.md)
-  * [API gateway](design/scalability-and-system-design-for-developers/api-gateway.md)
-  * [HTTP request mechanisms](design/scalability-and-system-design-for-developers/http-request-mechanisms.md)
-  * [Client-Side or Server-Side rendering](design/scalability-and-system-design-for-developers/client-side-or-server-side-rendering.md)
-  * [Vertical and Horizontal Scaling](design/scalability-and-system-design-for-developers/vertical-and-horizontal-scaling.md)
-  * [Application performance](design/scalability-and-system-design-for-developers/application-performance.md)
-  * [High Availability](design/scalability-and-system-design-for-developers/high-availability.md)
-  * [Load balancing](design/scalability-and-system-design-for-developers/load-balancing.md)
-  * [Page 2](design/scalability-and-system-design-for-developers/page-2.md)
-* [Logging](design/logging.md)
-
 ## Web
 
 * [HTTP](web/http.md)

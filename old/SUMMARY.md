@@ -1,36 +1,5 @@
 # Table of contents
 
-## Java
-
-* [Java Core](README.md)
-  * [Primitives](java/java-core/primitives.md)
-  * [Class Object](java/java-core/class-object.md)
-  * [Exceptions](java/java-core/exceptions.md)
-  * [Lambdas and functional interfaces](java/java-core/lambdas-and-functional-interfaces.md)
-  * [References](java/java-core/references.md)
-  * [Reflection](java/java-core/reflection.md)
-  * [Generics](java/java-core/generics.md)
-  * [Complexity](java/java-core/complexity.md)
-  * [Equals & HashCode](java/java-core/equals-and-hashcode.md)
-  * [OOP](java/java-core/oop.md)
-  * [Compilation and Running](java/java-core/compilation-and-running.md)
-  * [Inner Classes](java/java-core/inner-classes.md)
-  * [HashMap](java/java-core/hashmap.md)
-  * [Stream api](java/java-core/stream-api.md)
-  * [Immutability](java/java-core/immutability.md)
-  * [Operations](java/java-core/operations.md)
-* [Build tools](java/build-tools/README.md)
-  * [Gradle](java/build-tools/gradle.md)
-  * [Maven](java/build-tools/maven.md)
-  * [java cli](java/build-tools/java-cli.md)
-* [Concurrency](java/concurrency.md)
-* [Java Persistence API](java/java-persistence-api.md)
-* [JNDI](java/jndi.md)
-* [Java Memory Model](java/java-memory-model.md)
-* [Java Messaging System](java/java-messaging-system.md)
-* [Java Management eXtension](java/java-management-extension.md)
-* [Serialization](java/serialization.md)
-* [Validation](java/validation.md)
 
 ## Kotlin
 

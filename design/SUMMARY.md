@@ -21,3 +21,14 @@
     * [Load balancing](scalability-and-system-design-for-developers/load-balancing.md)
     * [Page 2](scalability-and-system-design-for-developers/page-2.md)
 * [Logging](logging.md)
+
+## Web
+
+* [HTTP](web/http.md)
+* [HTTP Caching](web/http-caching.md)
+* [OSI Model](web/osi-model.md)
+* [REST](web/rest.md)
+* [SOAP](web/soap.md)
+* [xss csrf cors](web/xss-csrf-cors.md)
+* [Websocket](web/websocket.md)
+* [DNS](web/dns.md)

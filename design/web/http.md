@@ -86,7 +86,7 @@ Excessive pulls load the server and potentially can bring it down.&#x20;
 
 <summary>AJAX - Asynchronous JavaScript and XML</summary>
 
-<img src="../.gitbook/assets/image (24).png" alt="" data-size="original">
+<img src="./../.gitbook/assets/image (24).png" alt="" data-size="original">
 
 AJAX uses an _XMLHttpRequest_ object for sending the requests to the server which is built-in the browser and uses JavaScript to update the _HTML DOM_.
 

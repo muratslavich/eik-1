@@ -58,16 +58,6 @@
   * [React component](javascript/react/react-component.md)
   * [JSX подробности](javascript/react/jsx-podrobnosti.md)
 
-## Web
-
-* [HTTP](web/http.md)
-* [HTTP Caching](web/http-caching.md)
-* [OSI Model](web/osi-model.md)
-* [REST](web/rest.md)
-* [SOAP](web/soap.md)
-* [xss csrf cors](web/xss-csrf-cors.md)
-* [Websocket](web/websocket.md)
-* [DNS](web/dns.md)
 
 ## Clouds
 

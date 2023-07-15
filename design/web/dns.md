@@ -9,4 +9,4 @@
 
 DNS resolver (DNS Recursive nameserver) - generally managed by internet provider. It's a distributed system setup in large datacenters, optimized to process DNS queries in minimal latency.
 
-![](<../.gitbook/assets/image (23).png>)
+![](<./../.gitbook/assets/image (23).png>)

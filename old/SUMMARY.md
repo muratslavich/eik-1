@@ -58,14 +58,6 @@
   * [React component](javascript/react/react-component.md)
   * [JSX подробности](javascript/react/jsx-podrobnosti.md)
 
-## Databases
-
-* [Basic](databases/basic/README.md)
-  * [Реляционная\_алгебра](databases/basic/relyacionnaya\_algebra.md)
-  * [Индексы](databases/basic/indeksy.md)
-  * [ПРоектирование](databases/basic/proektirovanie.md)
-  * [Целостность](databases/basic/celostnost.md)
-
 ## Design
 
 * [UML](design/uml.md)

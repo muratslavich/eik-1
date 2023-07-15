@@ -164,29 +164,6 @@
 * [нагрузка](testing/nagruzka.md)
 * [Тестирование](testing/testirovanie.md)
 
-## Algorithms
-
-* [Alg](../algos/alg/README.md)
-  * [Trees](../algos/alg/trees/README.md)
-    * [Binary Tree traverse](../algos/alg/trees/binary-tree-traverse.md)
-  * [BinarySearch](../algos/alg/binarysearch.md)
-  * [Recursion](../algos/alg/recursion.md)
-  * [Union-Find](../algos/alg/union-find.md)
-  * [Графы от Седжвига](../algos/alg/grafy-ot-sedzhviga.md)
-  * [строке](../algos/alg/stroke.md)
-  * [Интересные ссылки](../algos/alg/interesnye-ssylki.md)
-  * [минимального числа](../algos/alg/minimalnogo-chisla.md)
-  * [HashMap](../algos/alg/hashmap.md)
-  * [седжвик](../algos/alg/sedzhvik.md)
-  * [Сортировка массива по убыванию](../algos/alg/sortirovka-massiva-po-ubyvaniyu.md)
-  * [Структуры данных](../algos/alg/struktury-dannykh.md)
-* [Sorting](../algos/sorting.md)
-* [Searching](../algos/searching.md)
-* [Trees & Graphs](../algos/trees-and-graphs.md)
-* [Strings](../algos/strings.md)
-* [Pattern approach](../algos/pattern-approach/README.md)
-  * [Sliding Window](../algos/pattern-approach/sliding-window.md)
-
 ## Linux
 
 * [Enable chmod in WSL](linux/enable-chmod-in-wsl.md)

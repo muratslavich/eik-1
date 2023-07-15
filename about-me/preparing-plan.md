@@ -1,6 +1,6 @@
-# Preapering plan
+# Preparing plan
 
-Algorhitms
+Algorithms
 
 * составить план
 * литкод
@@ -16,7 +16,7 @@ Design
 
 
 
-Behevioral
+Behavioral
 
 * обновить резюме
 * завести дневник достижений, что я делал, какие задачи решал

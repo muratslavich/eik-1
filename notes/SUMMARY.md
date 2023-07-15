@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Ссылки](README.md)
-* [Preapering plan](preapering-plan.md)
 * [how disable all ports on ubuntu host except 80 for external connection](how-disable-all-ports-on-ubuntu-host-except-80-for-external-connection.md)
 * [I have two virtual private servers with two white IP, how I can connect them in one network](i-have-two-virtual-private-servers-with-two-white-ip-how-i-can-connect-them-in-one-network.md)
 * [Uncomplicated Firewall (UFW) is not blocking anything when using Docker](uncomplicated-firewall-ufw-is-not-blocking-anything-when-using-docker.md)

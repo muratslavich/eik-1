@@ -3,11 +3,13 @@ description: Logstash-elasticsearch-kibana
 layout: editorial
 ---
 
-# Copy of ELK stack
+# ELK stack
 
-![](<../.gitbook/assets/image (37).png>)
 
-![](<../.gitbook/assets/image (58).png>)
+
+![](<./.gitbook/assets/image (37).png>)
+
+![](<./.gitbook/assets/image (58).png>)
 
 ### **logstash**&#x20;
 
@@ -56,5 +58,5 @@ Or adding Kafka processing
 
 &#x20;
 
-![](<../.gitbook/assets/image (52).png>)
+![](<./.gitbook/assets/image (52).png>)
 

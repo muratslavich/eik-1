@@ -106,8 +106,7 @@ public class SomeController {
 
 Hystrix Dashboard
 
-```
-@SpringBootApplication
+SpringBootApplication
 @EnableHystrixDashboard
 ... main
 ```
@@ -123,7 +122,8 @@ public interface HelloClient {
     @RequestMapping("/hello")
     String sayHello(@RequestParam String name);
 }
-```
+``````
+@
 
 **Zuul**
 

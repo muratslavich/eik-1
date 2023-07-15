@@ -141,24 +141,6 @@
 
 * [Technical interview](technical-interview.md)
 
-## Spring
-
-* [Spring Framework versions](spring/spring-framework-versions.md)
-* [Custom Annotation](spring/custom-annotation.md)
-* [Properties](spring/properties.md)
-* [Proxying mechanism](spring/proxying-mechanism.md)
-* [Spring Aop](spring/spring-aop.md)
-* [Spring Boot](spring/spring-boot/README.md)
-  * [Create SpringBoot starter](spring/spring-boot/create-springboot-starter.md)
-* [Page 3](spring/page-3.md)
-* [Spring Cloud](spring/spring-cloud.md)
-* [Spring core](spring/spring-core.md)
-* [Spring Data](spring/spring-data.md)
-* [Spring Feign](spring/spring-feign.md)
-* [Spring Jdbc](spring/spring-jdbc.md)
-* [Spring Security](spring/spring-security.md)
-* [Spring transactions](spring/spring-transactions.md)
-
 ## Testing
 
 * [нагрузка](testing/nagruzka.md)

@@ -6,7 +6,7 @@
 * \`@SpringBootApplication\`
 * \`@ComponentScan\`
 
-![](<../../.gitbook/assets/image (51).png>)
+![](<../.gitbook/assets/image (51).png>)
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../.gitbook/assets/image (59).png>)
 

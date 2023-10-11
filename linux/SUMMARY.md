@@ -2,7 +2,7 @@
 
 ## Linux
 
-* [Enable chmod in WSL](enable-chmod-in-wsl.md)
+* [Enable chmod in WSL](README.md)
 * [Files and Directories](files-and-directories.md)
 * [Linux network instruments](linux-network-instruments.md)
 * [Memory and Space](memory-and-space.md)
